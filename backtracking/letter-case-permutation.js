@@ -31,3 +31,5 @@ var backtrack = function (S, pos, currStr, res) {
 };
 
 console.log(letterCasePermutation('a1b2'));
+
+//test
